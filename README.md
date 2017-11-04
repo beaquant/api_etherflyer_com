@@ -1,1 +1,1 @@
-# viabtc_exchange_cn_rest_api
+# EtherFlyer Exchange API for http://etherflyer.com
